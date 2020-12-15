@@ -13,3 +13,7 @@ elif area_of_b > area_of_a:
     print('Rectangle b has the greater area.')
 else:
     print('Rectangle a and b has the same area.')
+
+
+
+
